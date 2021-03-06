@@ -1,0 +1,38 @@
+Explicaciones de algunos conceptos:
+
+For
+
+Sirve para crear bucles,
+los bucles son repeticiones de acciones que dependen de las indicaciones que se les dan. 
+Para utilizarlo primero se crea una variable 
+(una variables es un identificador que contiene un valor).
+Luego creamos la expresión condicional que vendría a ser la limitación,
+para que no se pueda crear un bucle infinito que es lo que no queremos o chau máquina,
+no es tan literal, no le va a pasar nada malo a la máquina pero no queremos repetir algo
+porque a nadie le gusta estar en la misma situación por mucho tiempo. 
+Y por último podemos crear un contador que se incrementa de 1 en 1 y así sucesivamente
+(esto lo podemos cambiar de todos modos pero hay que escribirlo debajo de ese código).
+
+Operadores Lógicos
+
+Estos operados sirven para condiciones. Te explico los siguientes:
+
+&& 
+Devuelve el valor "false" si alguna de las condiciones dadas no se cumple.
+Yo lo pienso así: "este se cumple "y" (&&) este también, sino para mi es todo falso"
+En resumen se tienen que cumplir todas para ser "verdadero".
+
+|| (o)
+Devuelve "True" si al menos se cumple una condición.
+Lo podés pensar como: "Estoy conforme con que al menos 
+uno sea verdadero y si ninguna se cumple es falso"
+
+Para hacernos un súper resumen podemos pensar en que "&&" es del tipo "lo quiero todo",
+y del || podemos pensar que es conformista.
+
+! (NOT)
+Este operador devuelve el valor que se repite pero en sentido opuesto a lo que se le pasa.
+Nos sirve por si quiero cambiar de opinión, y siempre va por fuera y al principio 
+de lo que se ordenó antes para que se tome esa orden como la importante.
+
+
